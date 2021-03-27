@@ -1,10 +1,10 @@
 import './App.css'
-import Typography from '@material-ui/core/Typography'
+import { Home } from './pages'
 
 function App() {
   return (
-    <div className="App">
-      <Typography variant="h1">Merge 2021</Typography>
+    <div className="app">
+      <Home />
     </div>
   )
 }
