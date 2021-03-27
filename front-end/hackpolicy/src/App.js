@@ -3,7 +3,7 @@ import Typography from '@material-ui/core/Typography'
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Typography variant="h1">Merge 2021</Typography>
     </div>
   )
